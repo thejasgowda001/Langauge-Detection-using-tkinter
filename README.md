@@ -3,8 +3,8 @@
 ## Along with the Auto detection of input langauge 
 
 1.Download the code 
-2.Before running the code please intall the libraries
-3.pip install tkinter
-4.pip install googletrans
-5.pip install langdetect ( for auto detection ).
+2.Before executing the code please install the libraries
+  pip install tkinter
+  pip install googletrans ( for google translator )
+  pip install langdetect ( for auto detection ).
 6.Make Any changes you required 
