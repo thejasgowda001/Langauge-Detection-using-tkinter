@@ -7,4 +7,4 @@
   pip install tkinter
   pip install googletrans ( for google translator )
   pip install langdetect ( for auto detection ).
-6.Make Any changes you required 
+3.Make Any changes if required 
